@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main class="app">Hello World</main>
+  <main class="app">
+    <HelloDev />
+  </main>
 </template>
 
 <style scoped>
